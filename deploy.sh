@@ -21,5 +21,6 @@ git commit -m 'deploy'
 
 # if you are deploying to https://<USERNAME>.github.io/<REPO>
 git push -f https://github.com/andre347/d3-vue-example.git master:gh-pages
+git push -f https://github.com/andre347/run-alteryx-tableau-extension.git master:gh-pages
 
 cd -
